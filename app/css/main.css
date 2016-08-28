@@ -1,0 +1,24 @@
+.list {
+  color: #268b97; }
+
+.bordmsg {
+  position: absolute;
+  width: 500px;
+  margin-top: 10px;
+  margin-left: 50px;
+  padding: 2px;
+  z-index: 500;
+  background-color: #3bbfce; }
+
+.msg {
+  background-color: #a1e0e8;
+  color: #1c666e;
+  text-align: center; }
+
+.close {
+  width: 15px;
+  height: 15px;
+  margin-left: 485px;
+  background-color: #ca7569;
+  color: #713128;
+  cursor: pointer; }
